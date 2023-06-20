@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Mongre</h1>
 <h3 align="center">Engineering Final Year Student at VIT Bhopal University || ECE specialization in AI & Cybernetics</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/PmTQYTN/harshit-img-removebg-preview.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitmongre&label=Profile%20views&color=0e75b6&style=flat" alt="harshitmongre" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK, Machine Learning Basics and Problem-Solving**
