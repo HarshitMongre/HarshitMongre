@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK, Machine Learning Basics and Problem-Solving**
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/harshitmo84xi/articles](https://auth.geeksforgeeks.org/user/harshitmo84xi/articles)
+- 📝 I regularly write articles on <a href="https://auth.geeksforgeeks.org/user/harshitmo84xi/articles" > GeeksforGeeks</a>
 
 - 📫 How to reach me **harshitmongre700@gmail.com**
 
